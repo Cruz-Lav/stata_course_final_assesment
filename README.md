@@ -1,5 +1,5 @@
 
-# 🧾 Examen Parcial – Grupo 4
+# 🧾 Examen Parcial - Manejo de Bases de datos con Stata
 
 **Facultad de Ciencias Sociales – Economía PUCP**
 
