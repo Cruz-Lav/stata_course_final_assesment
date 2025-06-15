@@ -1,5 +1,5 @@
 
-# 🧾 Examen Parcial - Manejo de Bases de datos con Stata
+# 🧾 Examen Final - Manejo de Bases de datos con Stata
 
 **Facultad de Ciencias Sociales – Economía PUCP**
 
