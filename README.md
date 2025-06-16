@@ -3,7 +3,7 @@
 
 **Facultad de Ciencias Sociales – Economía PUCP**
 
-Este repositorio contiene el desarrollo completo del **examen parcial del curso Manejo de Base de Datos**. El trabajo analiza la situación de la cobertura de seguro de salud en el Perú durante el Censo Nacional de 2017, usando herramientas estadísticas, geoespaciales y visuales mediante **Stata**.
+Este repositorio contiene el desarrollo completo del **examen final del curso Manejo de Base de Datos**. El trabajo analiza la situación de la cobertura de seguro de salud en el Perú durante el Censo Nacional de 2017, usando herramientas estadísticas, geoespaciales y visuales mediante **Stata**.
 
 ## 👥 Integrantes del grupo
 
